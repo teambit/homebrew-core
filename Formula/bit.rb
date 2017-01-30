@@ -2,8 +2,8 @@ require "language/node"
 class Bit < Formula
   desc "Distributed Code Component Manager"
   homepage "https://www.bitsrc.io"
-  url "http://assets.bitsrc.io/release/0.1.0/bit_0.1.0_brew.tar.gz"
-  sha256 "c33c00a8334da4659b263472d013eaafbc5f0c16249e755f7624ac396d673270"
+  url "http://104.154.76.155:8081/artifactory/bit-brew/stable/bit/0.1.7/bit-0.1.7-brew.tar.gz"
+  sha256 "4957423b77965bade8a28c0215d33f51d9b8362121b22e1d1e1663c98546fe88"
 
   depends_on "node"
 
